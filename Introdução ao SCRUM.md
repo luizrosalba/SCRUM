@@ -118,6 +118,85 @@ Processos de desenvolvimento (resultado é um software)
      Nubank 
      
      
-    
-    
-  
+    # Papéis e responsabilidades 
+
+- Não pode haver divisão hierárquica entre o time 
+-Treinar o time para se tornar o SM dispensável 
+
+## Refining e Planning 
+- PO não participa 
+-Release Planning de Múltiplas Squads 
+Vários times que se agrupam em uma única Release (técnica) 
+- Release Planning de Projeto 
+
+
+Vision board -> Product Backlog -> MVP -> FEEDback -> VB 
+![](https://github.com/luizrosalba/SCRUM/blob/master/PB.PNG?raw=true)
+
+estória 
+- Nome 
+- Descrição 
+- Regras de negócio 
+- Tela 
+-KPI 
+- TAgueamento 
+- Criterios de aceite 
+![](https://github.com/luizrosalba/SCRUM/blob/master/Capturar3213123321.PNG)
+
+Product backlog 
+-Épicoe estória 
+
+##Papel do PO 
+Transformação digital é usar a tecnologia para melhroar o desempenho 
+- mostrar as pessoas como usar a tecnologia que já está disponivel 
+- errar rápido e consertar rápido 
+
+
+## Conceitos e atividades essenciais para o sucesso de um projeto ágil
+
+Estórias vs tarefas 
+Analogia : Construir uam bicileta 
+-  conclusão dos épicos = conclusão dos objetivos do projeto 
+- o guidon, amortecedores ... é uma estário do épico garfo 
+- o pedal é uam história do épico sistema de tração 
+- para realização da estória garfo , precisamos montar o gardo , montar a roda , montar o sistema de freio .... 
+- Mapeamos dependencias internas e externas 
+- estoria = conjunto de tarefas em nível de negócio 
+- tarefa = um conjunto de atividades que o time de desenvolvimento deve desempenhar para entregar a estória 
+- epico = conjutno de histórias  
+
+
+## Critério de aceite , estimativa e planejamento 
+
+Lista de critérios que precisam ser alcançadas para que a user story atenda os requisitos do usuario e seja aceita pelo product owner  os critérios de aceite tem o objetivo de 
+- definir limiteas para as user stories 
+- ajudar o po a detalhar em alto nivel o que é necessário para entregar valor ao cliente 
+- De novo o Planning poker (cada componente recebe um deck contendo os numeros da sequencia de fibonnacci 
+- estorias lidas e tarefas criadas 
+- o time vota jogando cartas e dizendo a complexidade da tarefa 
+- tarefa simples = 1 tarefa dficil = 13 
+- acima de 20 pontos a estoria eh quebrada em mais estorias e tarefas 
+- maior e menor nota justificam a pontuaçao pois podem ter pensado em algo que o restante do time nao pensou 
+## Planejamento 
+
+- a planing eh dividida em : 
+Primeira parte da planning 
+- o po pega os itens mais refinados e priorizados do Product Backlog e irá apresentar ao time 
+- o po junto com o dev le as historias e tira as duvidas 
+Na segunda parte da planning 
+- o po nao participa (parte técnica )
+- o time pega cada estoria  e escreve cada etapa a ser desenvolvida para que a estoria seja considerada entregue 
+- discussões que nao teriam na frente do po (po deveria ser um par nao superior ) 
+- ao quebrar as estorias podem verificar que é mais complexa que anteriormente 
+- com as estorias mapeadas passase ao sprint backlog 
+- po valida qual dos itenas é mais prioritarios e objetivo principal da sprint 
+
+## Relacionamento com clientes / stakeholders 
+Stakeholders pessoa que legitima açoes de uma organização. Podem ser funcionarios , gestores , gerentes , ongs , credores , estado , .... que são afetados pelo ações da empresa. Não necessariamente é o patrocinador do projeto. O PO deve saber conversar com todo este público . O po não deve usar os projetos para eliminar seu trabalho. O interesse dos projetos devem estar na empresa . 
+
+o po deve ajudar o scrumaster a remover os impedimentos 
+
+
+
+ 
+

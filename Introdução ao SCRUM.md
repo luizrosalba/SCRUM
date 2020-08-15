@@ -101,6 +101,7 @@ Processos de desenvolvimento (resultado é um software)
     ### SPRINT  (30 dias corridos ou menos ) 
     Planejamento da Sprint (PO , DEV, SM) (8h) 
     -1º (4h) O que fazer (PO) 2º (4h)Como fazer (DEV) 
+    
     - Planning Poker - Cada um estima o tempo da tarefa 
     Reuniões diarias (15 min) (Stand-up meeting) 
     - O que fez no anterior 
@@ -110,6 +111,8 @@ Processos de desenvolvimento (resultado é um software)
     Review (4h) 
     - Time Dev apresenta para o PO o trabalho feito  
     - PO aceita ou nao , não mecher no software 
+    - Seu objetivo é verificar se a demanda agrega valor ao negócio 
+    - Refinamento 
     Retrospectiva (3h) 
     -Reunião da eqioá ára Lições Aprendidas 
     - Transparência 
@@ -125,7 +128,7 @@ Processos de desenvolvimento (resultado é um software)
 
 ## Refining e Planning 
 - PO não participa 
--Release Planning de Múltiplas Squads 
+- Release Planning de Múltiplas Squads 
 Vários times que se agrupam em uma única Release (técnica) 
 - Release Planning de Projeto 
 
@@ -150,7 +153,9 @@ Product backlog
 Transformação digital é usar a tecnologia para melhroar o desempenho 
 - mostrar as pessoas como usar a tecnologia que já está disponivel 
 - errar rápido e consertar rápido 
-
+### REview 
+- os devs mostram cada solução que trouxeram . 
+- o PO e o SM devem estar presentes 
 
 ## Conceitos e atividades essenciais para o sucesso de um projeto ágil
 
@@ -195,6 +200,9 @@ Na segunda parte da planning
 Stakeholders pessoa que legitima açoes de uma organização. Podem ser funcionarios , gestores , gerentes , ongs , credores , estado , .... que são afetados pelo ações da empresa. Não necessariamente é o patrocinador do projeto. O PO deve saber conversar com todo este público . O po não deve usar os projetos para eliminar seu trabalho. O interesse dos projetos devem estar na empresa . 
 
 o po deve ajudar o scrumaster a remover os impedimentos 
+
+Participação obrigatória na retro : DEV e SM 
+
 
 
 

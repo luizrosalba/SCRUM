@@ -102,13 +102,22 @@ Processos de desenvolvimento (resultado é um software)
     Planejamento da Sprint (PO , DEV, SM) (8h) 
     -1º (4h) O que fazer (PO) 2º (4h)Como fazer (DEV) 
     - Planning Poker - Cada um estima o tempo da tarefa 
-    Reuniões diarias (15 min) (Stand=up meeting) 
+    Reuniões diarias (15 min) (Stand-up meeting) 
     - O que fez no anterior 
     - o que está programado no dia 
-    - TEm algum impedimento ? 
-    - Review 
-    - Retrospectiva 
+    - Tem algum impedimento ? 
+    - Quadro Kanban  : TODO - Doing - DONE 
+    Review (4h) 
+    - Time Dev apresenta para o PO o trabalho feito  
+    - PO aceita ou nao , não mecher no software 
+    Retrospectiva (3h) 
+    -Reunião da eqioá ára Lições Aprendidas 
+    - Transparência 
     
+     ## Gestão Tradicional x Ágil 
+     Nubank 
+     
+     
     
     
   
